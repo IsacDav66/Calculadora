@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\CERTUS\LENGUAJES PARA DES Y SOP\PRACTICAS\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
